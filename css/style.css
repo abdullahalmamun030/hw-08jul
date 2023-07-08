@@ -1,0 +1,45 @@
+.header{
+	height: 100px;
+	background-color: burlywood;
+}
+.header1{
+	font-size: 40px;
+}
+.wrepper{
+	border: 10px solid black;
+	overflow: hidden;
+}
+.home{
+	width: 25%;
+	height: 400px;
+	background-color:deeppink ;
+	float: left;
+}
+.section1{
+	font-style: italic;
+}
+.about{
+	width: 25%;
+	height: 400px;
+	background-color: darkgrey;
+	float: left;
+}
+.contact{
+	width: 25%;
+	height: 400px;
+	background-color: darkorange;
+	float: left;
+}
+.gellary{
+	width: 25%;
+	height: 400px;
+	background-color: darkslateblue;
+	float: left;
+}
+.footer{
+	height: 150px;
+	background-color: burlywood;
+}
+.footer1{
+	font-size: 40px;
+}
